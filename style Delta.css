@@ -6,3 +6,11 @@
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
    
 }
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  
