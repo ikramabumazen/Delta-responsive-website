@@ -16,4 +16,14 @@
   .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
+  }
+  .navbar-header {
+    float: left;
 }
+.container{
+    padding-right: 15px;
+      padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+   
+    } 
